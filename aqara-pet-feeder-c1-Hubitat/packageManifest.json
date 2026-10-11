@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minimumHEVersion": "2.5.2",
   "dateReleased": "2026-08-26",
-  "licenseFile": "LICENSE",
+  "licenseFile": "aqara-pet-feeder-c1-Hubitat/LICENSE",
   "drivers": [
     {
       "id": "61c4769e-c179-4109-ac38-d45ddf407c8b",
