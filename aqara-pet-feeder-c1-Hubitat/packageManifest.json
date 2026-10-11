@@ -1,7 +1,7 @@
 {
   "packageName": "Aqara Pet Feeder C1 Driver",
   "author": "TheCase",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minimumHEVersion": "2.5.2",
   "dateReleased": "2026-08-26",
   "licenseFile": "LICENSE",
