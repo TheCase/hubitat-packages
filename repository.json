@@ -9,6 +9,9 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/TheCase/aqara-pet-feeder-c1-Hubitat/main/packageManifest.json",
       "description": "Driver for Aqara C1 Automatic Pet Feeder"
+      "tags": [
+        "Pets & Animals" 
+      ]
     }
   ]
 }
