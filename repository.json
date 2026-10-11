@@ -1,1 +1,14 @@
-hi
+{
+  "author": "TheCase",
+  "gitHubUrl": "https://github.com/TheCase",
+  "payPalUrl": "https://www.paypal.com/donate/\\?hosted_button_id\\=4APV5K8E4RUHU",
+  "packages": [
+    {
+      "id": "d418c2f4-151d-49f3-8a59-c0973bd4014e",
+      "name": "Aqara Pet Feeder C1 Driver",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/TheCase/aqara-pet-feeder-c1-Hubitat/main/packageManifest.json",
+      "description": "Driver for Aqara C1 Automatic Pet Feeder"
+    }
+  ]
+}
