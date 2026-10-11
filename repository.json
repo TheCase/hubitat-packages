@@ -7,7 +7,7 @@
       "id": "d418c2f4-151d-49f3-8a59-c0973bd4014e",
       "name": "Aqara Pet Feeder C1 Driver",
       "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/TheCase/hubitat-packages/aqara-pet-feeder-c1-Hubitat/main/packageManifest.json",
+      "location": "https://raw.githubusercontent.com/TheCase/hubitat-packages/main/aqara-pet-feeder-c1-Hubitat/packageManifest.json",
       "description": "Driver for Aqara C1 Automatic Pet Feeder",
       "tags": [
         "Pets & Animals" 

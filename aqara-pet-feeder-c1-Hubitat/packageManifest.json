@@ -10,7 +10,7 @@
       "id": "61c4769e-c179-4109-ac38-d45ddf407c8b",
       "name": "Aqara Pet Feeder C1",
       "namespace": "repulsor",
-      "location": "https://raw.githubusercontent.com/TheCase/hubitat-packages/aqara-pet-feeder-c1-Hubitat/main/aqara-pet-feeder-c1.groovy",
+      "location": "https://raw.githubusercontent.com/TheCase/hubitat-packages/main/aqara-pet-feeder-c1-Hubitat/aqara-pet-feeder-c1.groovy",
       "required": true
     }
   ]
